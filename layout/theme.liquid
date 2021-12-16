@@ -106,6 +106,10 @@
           font-size: 1.6rem;
         }
       }
+
+      a.button, button.button, button.shopify-payment-button__button {
+        border-radius: {{ settings.button_border_radius }}px;
+      }
     {% endstyle %}
 
     {{ 'base.css' | asset_url | stylesheet_tag }}

@@ -8,6 +8,25 @@
     "theme_support_url": "https://support.shopify.com/"
   },
   {
+    "name": "Custom",
+    "settings": [
+      {
+        "type": "header",
+        "content": "Button rounding"
+      },
+      {
+        "type": "range",
+        "id": "button_border_radius",
+        "min": 0,
+        "max": 30,
+        "step": 5,
+        "unit": "px",
+        "label": "Button border radius",
+        "default": 0
+      }
+    ]
+  },
+  {
     "name": "t:settings_schema.colors.name",
     "settings": [
       {
