@@ -1,4 +1,7 @@
 # Dawn
+A fork of Shopify's open source Dawn theme, with a few customizations of my own, each documented with a tutorial on [my blog](https://sandypockets.dev).
+
+---
 
 [![Build status](https://github.com/shopify/dawn/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Shopify/dawn/actions/workflows/ci.yml?query=branch%3Amain)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?color=informational)](/.github/CONTRIBUTING.md)
