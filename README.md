@@ -1,6 +1,9 @@
 # Dawn
 A fork of Shopify's open source Dawn theme, with a few customizations of my own, each documented with a tutorial on [my blog](https://sandypockets.dev).
 
+- [How to hide the cart icon on Shopify's Dawn theme](https://sandypockets.dev/posts/how-to-hide-the-cart-icon-on-shopify-dawn-theme)
+- [Customizing Shopify's Dawn theme](https://sandypockets.dev/posts/customizing-shopifys-dawn-theme)
+
 ---
 
 [![Build status](https://github.com/shopify/dawn/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Shopify/dawn/actions/workflows/ci.yml?query=branch%3Amain)
